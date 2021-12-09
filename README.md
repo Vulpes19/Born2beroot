@@ -1,6 +1,8 @@
 # Born2beroot
 A 1337 (42 Network) project about system administration and network.
 
+### Some important informations you need to know before evaluations.
+
 ## What is a Virtual Machine ? And how does it work ?
 https://www.redhat.com/en/topics/virtualization/what-is-a-virtual-machine
 
